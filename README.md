@@ -3,7 +3,7 @@
 
 ![Awesome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20XXBAI&fontSize=40&fontAlignY=40&animation=twinkling)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV6enZzcHVodmtza2d5c3YzeGR0NnQ5MWtzZ2RzZTZnOHhtNjRxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" alt="Matrix Hacker" style="zoom: 25%;" /> 
+
 
 
 
